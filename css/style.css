@@ -3,3 +3,8 @@
 
 background: blueviolet url("../images/back3.jpg")no-repeat fixed center;
 }
+.textstyle
+{
+    font-size:large;
+    font: bold;
+}
